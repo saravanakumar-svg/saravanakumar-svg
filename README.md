@@ -1,161 +1,154 @@
-````markdown
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F0F0F,30:2D0B59,70:6D28D9,100:A855F7&text=Saravanakumar&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=UI%20%26%20UX%20Designer&descAlignY=58&descSize=22&animation=fadeIn"/>
-</p>
+# GitHub README Banner (Black + Purple UI/UX Theme)
 
-<h1 align="center">SARAVANAKUMAR</h1>
+Save the following code as **`banner.svg`** in your GitHub profile repository.
 
-<h3 align="center">
-UI/UX Designer • Figma • Canva • User Experience • Design Systems
-</h3>
+```svg
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360">
 
-<p align="center">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#08080B"/>
+      <stop offset="50%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#6D28D9"/>
+    </linearGradient>
 
-<a href="https://saravanakumar-portfolio-glow.lovable.app">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+    <linearGradient id="purple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
 
-<a href="https://github.com/saravanakumar-svg">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <rect width="1280" height="360" fill="url(#bg)"/>
 
-</p>
+  <circle cx="1110" cy="70" r="150" fill="#8B5CF6" opacity="0.08"/>
+  <circle cx="1180" cy="300" r="190" fill="#A855F7" opacity="0.05"/>
 
----
+  <!-- UI / UX Logo -->
+  <g transform="translate(80,85)" filter="url(#glow)">
+      <polygon
+          points="90,0 180,50 180,150 90,200 0,150 0,50"
+          fill="none"
+          stroke="url(#purple)"
+          stroke-width="6"/>
 
-# About Me
+      <path
+        d="M55 55
+           Q90 25 125 55
+           Q90 85 55 115
+           Q90 145 125 115"
+        fill="none"
+        stroke="#A855F7"
+        stroke-width="6"
+        stroke-linecap="round"/>
 
-I am a passionate UI/UX Designer focused on creating modern, clean, user-centered digital products. I enjoy transforming ideas into intuitive interfaces that deliver meaningful user experiences.
+      <circle cx="90" cy="85" r="6" fill="#FFFFFF"/>
+  </g>
 
----
+  <!-- Name -->
+  <text
+      x="320"
+      y="120"
+      font-size="56"
+      font-family="Segoe UI, Arial"
+      fill="white"
+      font-weight="700">
+      SARAVANAKUMAR
+  </text>
 
-# Design Toolkit
+  <!-- Title -->
+  <text
+      x="320"
+      y="165"
+      font-size="24"
+      font-family="Segoe UI"
+      fill="#C4B5FD">
+      UI / UX DESIGNER
+  </text>
 
-<p align="center">
+  <!-- Subtitle -->
+  <text
+      x="320"
+      y="205"
+      font-size="18"
+      font-family="Segoe UI"
+      fill="#D1D5DB">
+      User Research • Wireframing • Prototyping • Design Systems
+  </text>
 
-<img src="https://skillicons.dev/icons?i=figma"/>
+  <!-- Divider -->
+  <line
+      x1="320"
+      y1="230"
+      x2="780"
+      y2="230"
+      stroke="#8B5CF6"
+      stroke-width="3"/>
 
-<img src="https://skillicons.dev/icons?i=html"/>
+  <!-- Feature Cards -->
+  <g transform="translate(930,70)">
+      <rect width="240" height="60" rx="14"
+            fill="#15151F"
+            stroke="#7C3AED"/>
 
-<img src="https://skillicons.dev/icons?i=css"/>
+      <text
+          x="25"
+          y="38"
+          font-size="18"
+          fill="white"
+          font-family="Segoe UI">
+          FIGMA
+      </text>
 
-<img src="https://skillicons.dev/icons?i=git"/>
+      <rect y="85" width="240" height="60" rx="14"
+            fill="#15151F"
+            stroke="#7C3AED"/>
 
-<img src="https://skillicons.dev/icons?i=github"/>
+      <text
+          x="25"
+          y="123"
+          font-size="18"
+          fill="white"
+          font-family="Segoe UI">
+          CANVA
+      </text>
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
+      <rect y="170" width="240" height="60" rx="14"
+            fill="#15151F"
+            stroke="#7C3AED"/>
 
-</p>
+      <text
+          x="25"
+          y="208"
+          font-size="18"
+          fill="white"
+          font-family="Segoe UI">
+          USER EXPERIENCE
+      </text>
+  </g>
 
----
-
-# Core Skills
-
-- User Interface Design
-- User Experience Design
-- Wireframing
-- Interactive Prototyping
-- Responsive Web Design
-- Design Systems
-- Visual Design
-- Typography
-- Color Systems
-- Accessibility
-
----
-
-# Design Workflow
-
-```text
-Research
-      ↓
-User Flow
-      ↓
-Wireframe
-      ↓
-UI Design
-      ↓
-Prototype
-      ↓
-Testing
-      ↓
-Iteration
+</svg>
 ```
 
----
+## README.md
 
-# GitHub Analytics
-
+```md
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saravanakumar-svg&show_icons=true&theme=midnight-purple&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanakumar-svg&layout=compact&theme=midnight-purple&hide_border=true"/>
-
+  <img src="./banner.svg" width="100%" alt="Saravanakumar UI UX Banner">
 </p>
+```
 
----
+**Recommended GitHub theme**
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=saravanakumar-svg&theme=midnight-purple&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saravanakumar-svg&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| Portfolio | Personal UI/UX Portfolio |
-| ALBO Fitness | Gym Landing Page |
-| Dashboard UI | Modern Dashboard Design |
-| Mobile UI | Mobile Application Concepts |
-| Landing Pages | Responsive Website Designs |
-
----
-
-# Current Focus
-
-- UI/UX Design
-- Design Systems
-- Figma
-- User Research
-- Responsive Interfaces
-- Accessibility
-- Portfolio Development
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=saravanakumar-svg&style=for-the-badge&color=7C3AED"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F0F0F,30:2D0B59,70:6D28D9,100:A855F7"/>
-
-</p>
-
-<h3 align="center">
-Designing Experiences. Building Impact.
-</h3>
-````
-
+* Background: `#08080B`
+* Primary Purple: `#7C3AED`
+* Accent Purple: `#A855F7`
+* Text: `#FFFFFF`
+* Secondary Text: `#D1D5DB`
