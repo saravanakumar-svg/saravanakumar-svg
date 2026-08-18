@@ -1,32 +1,27 @@
 <!-- ========================================================= -->
-<!--                SARAVANA KUMAR | GITHUB                   -->
-<!--                 UI/UX DESIGN PORTFOLIO                   -->
+<!--                SARAVANA KUMAR — GITHUB                   -->
+<!--                  UI/UX DESIGNER                          -->
 <!-- ========================================================= -->
 
-<!-- ===================== PREMIUM BANNER ==================== -->
+<!-- ====================== HERO BANNER ====================== -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,25:EDE9FE,55:C4B5FD,80:7C3AED,100:4C1D95&height=280&section=header&text=SARAVANA%20KUMAR&fontSize=48&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&desc=UI%2FUX%20DESIGNER%20%7C%20FIGMA%20%7C%20USER%20EXPERIENCE&descAlignY=61&descSize=17&descColor=FFFFFF"
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=SK&fontSize=100&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&color=0:0B0710,30:211035,60:5B21B6,85:7C3AED,100:A78BFA"
     width="100%"
   />
 </p>
 
-<!-- ========================= SK LOGO ======================= -->
+<!-- ====================== BRANDING ========================= -->
 
 <p align="center">
-
-<img
-src="https://dummyimage.com/160x160/7C3AED/FFFFFF.png&text=SK"
-width="120"
-height="120"
-alt="SK Logo"
-/>
-
+  <img
+    src="https://img.shields.io/badge/SK-SARAVANA%20KUMAR-7C3AED?style=for-the-badge&labelColor=0B0710"
+  />
 </p>
 
 <h1 align="center">
-  SARAVANA KUMAR
+  Saravana Kumar
 </h1>
 
 <p align="center">
@@ -34,49 +29,48 @@ alt="SK Logo"
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer;Figma+Designer;Creative+Problem+Solver;Designing+Better+User+Experiences" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Designing+Simple+Digital+Experiences;UI+Design+%7C+UX+Design+%7C+Figma;Turning+Ideas+Into+Meaningful+Interfaces"
+  />
 </p>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/saravana-kumar">
-<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:saravana1011810118@gmail.com">
-<img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/saravana-kumar">
+    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:saravana1011810118@gmail.com">
+    <img src="https://img.shields.io/badge/Email-A78BFA?style=flat-square&logo=gmail&logoColor=0B0710"/>
+  </a>
 </p>
 
 ---
 
-# ABOUT ME
+# PROFILE
 
-I am a motivated and creative **UI/UX Design fresher** with a strong
-interest in designing intuitive and engaging user experiences.
+I'm a **UI/UX Design fresher** passionate about creating intuitive,
+engaging and user-focused digital experiences.
 
-I am looking for an opportunity to apply my design skills, creativity
-and continuous learning mindset to build impactful digital products
-while growing as a professional UI/UX Designer.
+I enjoy transforming ideas into structured interfaces through
+**UI design, UX design, wireframing, mockups and interactive
+prototyping**.
 
-My design focus includes creating intuitive interfaces through
-**Figma, UI design, UX design and wireframing**.
+My goal is to continue learning, improve my design thinking and
+contribute to digital products that are simple, useful and visually
+engaging.
 
 ---
 
-# MY SOFTWARE
-
-## FIGMA
+# DESIGN TOOL
 
 <p align="center">
 
 <a href="https://www.figma.com/">
 
 <img
-src="https://skillicons.dev/icons?i=figma"
-height="90"
-alt="Figma"
+  src="https://skillicons.dev/icons?i=figma"
+  width="75"
+  alt="Figma"
 />
 
 </a>
@@ -85,35 +79,48 @@ alt="Figma"
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/FIGMA-7C3AED?style=for-the-badge&logo=figma&logoColor=white"/>
+<strong>FIGMA</strong>
 
-</p>
+<br>
 
-<p align="center">
-  <strong>UI Design • UX Design • Wireframing • Mockups • Interactive Prototypes</strong>
+UI Design · UX Design · Wireframing · Mockups · Prototyping
+
 </p>
 
 ---
 
-# DESIGN SKILLS
+# CORE SKILLS
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/UI%20DESIGN-7C3AED?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/UX%20DESIGN-6D28D9?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/WIREFRAMING-5B21B6?style=for-the-badge"/>
 
 </p>
 
-### Core Skills
+<p align="center">
+
+<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-A78BFA?style=for-the-badge&labelColor=0B0710"/>
+<img src="https://img.shields.io/badge/COMMUNICATION-A78BFA?style=for-the-badge&labelColor=0B0710"/>
+<img src="https://img.shields.io/badge/INNOVATION-A78BFA?style=for-the-badge&labelColor=0B0710"/>
+<img src="https://img.shields.io/badge/COLLABORATION-A78BFA?style=for-the-badge&labelColor=0B0710"/>
+
+</p>
+
+---
+
+# DESIGN APPROACH
 
 ```text
-UI Design
-UX Design
-Wireframing
-Communication
-Problem Solving
-Innovation
-Collaboration
+     UNDERSTAND
+          ↓
+       DEFINE
+          ↓
+       WIREFRAME
+          ↓
+      DESIGN
+          ↓
+      PROTOTYPE
+          ↓
+       IMPROVE
