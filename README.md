@@ -1,105 +1,142 @@
-<!-- ========================= -->
-<!--      SK GITHUB PROFILE     -->
-<!-- ========================= -->
+<!-- ========================================================= -->
+<!--                 SARAVANAKUMAR | SK                       -->
+<!--              UI/UX DESIGNER GITHUB README                 -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-  <!-- PREMIUM PURPLE / BLACK BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0F,50:18102B,100:7C3AED&height=220&section=header&text=SARAVANAKUMAR&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=UI%2FUX%20Designer%20%7C%20Full%20Stack%20Java%20%7C%20Data%20Analysis&descAlignY=58&descSize=17&descColor=EDE9FE" width="100%"/>
+<!-- ======================= BANNER ======================== -->
 
-  <br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080C,45:171126,75:4C1D95,100:7C3AED&height=250&section=header&text=SARAVANAKUMAR&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=UI%2FUX%20DESIGNER%20%7C%20PRODUCT%20DESIGN&descAlignY=60&descSize=17&descColor=EDE9FE" width="100%"/>
 
-  <h1> SARAVANAKUMAR </h1>
+<br>
 
-  <p>
-    <strong>UI/UX Designer</strong> •
-    <strong>Full Stack Java Learner</strong> •
-    <strong>Data Analysis Learner</strong>
-  </p>
+<!-- ======================= BRAND ========================= -->
 
-  <p>
-    Designing clean interfaces and building practical digital experiences.
-  </p>
+<h1>SK</h1>
 
-  <br>
+<h2>UI/UX DESIGNER</h2>
 
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+<p>
+Creating clean, intuitive and meaningful digital experiences.
+</p>
 
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<br>
 
-  <a href="YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<!-- ======================= LINKS ========================== -->
+
+<a href="https://saravanakumar-portfolio-glow.lovable.app">
+<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
+</a>
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LINKEDIN-18181B?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+</a>
 
 </div>
 
 ---
 
-## About Me
+# ABOUT ME
 
-I am **Saravanakumar**, a final-year **BE Electronics and Communication Engineering** student with a strong interest in **UI/UX Design, Full Stack Development, Data Analysis, and AI-powered digital experiences**.
+I’m **Saravanakumar**, a UI/UX Designer focused on creating simple, modern and user-centered digital experiences.
 
-I enjoy transforming ideas into clean, functional and user-focused digital products. I am continuously improving my design thinking, development skills and problem-solving abilities through practical projects and learning.
+I enjoy turning complex ideas into clean interfaces with strong visual hierarchy, intuitive navigation and consistent design systems.
 
-- UI/UX design and product interface development
-- Full Stack Java development
-- Data analysis and visualization
-- AI-powered project development
-- Modern web interface design
-- Creating practical and user-friendly digital experiences
-- Open to internships, fresher opportunities and collaborative projects
+My approach combines:
+
+**User Needs + UX Thinking + Visual Design + Interaction**
+
+I’m continuously improving my design skills by working on real-world concepts, portfolio projects and modern digital product experiences.
 
 ---
 
-## Design & Development Tools
+# UI/UX DESIGN SKILLS
+
+### UX DESIGN
+
+- User Research
+- User Personas
+- User Journey
+- User Flow
+- Information Architecture
+- Problem Definition
+- Usability
+- UX Strategy
+
+### UI DESIGN
+
+- Visual Hierarchy
+- Typography
+- Color Theory
+- Layout Design
+- Grid Systems
+- Spacing
+- Responsive Design
+- Component Design
+- Design Systems
+- Accessibility
+
+### INTERACTION DESIGN
+
+- Wireframing
+- Low-Fidelity Design
+- High-Fidelity Design
+- Prototyping
+- Micro Interactions
+- Navigation Design
+- Interaction Patterns
+- Usability Testing
+
+---
+
+# DESIGN TOOLS
 
 <div align="center">
 
 <table>
 <tr>
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/><br>
-<b>Figma</b>
+<td align="center" width="160">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55"/>
+
+<br><br>
+
+<b>FIGMA</b>
+
+<br>
+
+UI Design • Prototype
+
 </td>
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45"/><br>
-<b>Canva</b>
+<td align="center" width="160">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="55"/>
+
+<br><br>
+
+<b>CANVA</b>
+
+<br>
+
+Visual Design • Branding
+
 </td>
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/><br>
-<b>GitHub</b>
-</td>
+<td align="center" width="160">
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/><br>
-<b>Java</b>
-</td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br>
-<b>HTML5</b>
-</td>
+<br><br>
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br>
-<b>CSS3</b>
-</td>
+<b>GITHUB</b>
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br>
-<b>JavaScript</b>
-</td>
+<br>
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br>
-<b>MySQL</b>
+Portfolio • Version Control
+
 </td>
 
 </tr>
@@ -109,18 +146,25 @@ I enjoy transforming ideas into clean, functional and user-focused digital produ
 
 ---
 
-## UI/UX Skills
+# DESIGN WORKFLOW
+
+<div align="center">
 
 ```text
-User Research
-Wireframing
-Information Architecture
-User Flow
-Visual Design
-Responsive Design
-Design Systems
-Prototype Development
-Usability Thinking
-Typography
-Color Theory
-Interaction Design
+DISCOVER
+   ↓
+RESEARCH
+   ↓
+DEFINE
+   ↓
+USER FLOW
+   ↓
+WIREFRAME
+   ↓
+VISUAL DESIGN
+   ↓
+PROTOTYPE
+   ↓
+TEST
+   ↓
+IMPROVE
